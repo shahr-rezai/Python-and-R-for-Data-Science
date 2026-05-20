@@ -46,4 +46,52 @@ This repository is part of a personal learning journey in Data Science. It is de
 
 ---
 
-## Repository Structure.
+## Repository Structure
+python-r-data-science/
+│
+├── python/
+│ ├── basics/
+│ ├── data-analysis/
+│ ├── visualization/
+│ └── machine-learning/
+│
+├── r/
+│ ├── basics/
+│ ├── statistics/
+│ ├── visualization/
+│ └── machine-learning/
+│
+├── datasets/
+│
+├── projects/
+│
+└── README.md
+
+
+---
+
+## Purpose
+
+The goal of this repository is to:
+
+- Document my learning progress in Data Science
+- Practice coding with real datasets
+- Build a strong portfolio for future internships and research opportunities
+- Strengthen problem-solving and analytical thinking skills
+
+---
+
+## Future Improvements
+
+- Add real-world data science projects
+- Include Jupyter notebooks for better explanations
+- Add machine learning case studies
+- Improve visualization dashboards
+
+---
+
+## Author
+
+**Shahr Rezai**  
+Computer Science Student  
+GitHub: [shahr_rezai](https://github.com/shahr_rezai)
