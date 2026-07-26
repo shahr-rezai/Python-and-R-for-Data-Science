@@ -8,4 +8,3 @@ average = sum(marks)/len(marks)
 print("Average =", average)
 print("Highest =", max(marks))
 print("Lowest =", min(marks))
-
